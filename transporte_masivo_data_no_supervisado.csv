@@ -1,0 +1,5 @@
+Estacion,Flujo_Pasajeros,Tiempo_Espera_Minutos,Frecuencia_Servicios,Distancia_km
+Estacion_A,300,5,6,0
+Estacion_B,150,10,4,5
+Estacion_C,400,7,5,3
+Estacion_D,250,12,3,7
